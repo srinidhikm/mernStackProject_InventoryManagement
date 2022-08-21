@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.fontfamhome
+{ 
+  font-family: 'Poppins', sans-serif;
+  font-size: 50px;
+}
+
+.fontfamabout
+{ 
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+}
+
+.pad1
+{
+  margin-top: 230px;
+}
+
+.pad2
+{
+  margin-top: 100px;
+}
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  height: 100vh;
+  width: 100%;
+  background-image: url("./images/home.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.regis
+{
+  margin-top: 5px;
+  border-radius: 25px;
+  padding-bottom: 7px;
+}
+
+.padd1
+{
+  padding-top: 200px;
+}
+
+.login
+{
+  padding-bottom: 30px;
+}
+
+.itemtable
+{
+  margin-top: 10px;
+  overflow-y: auto;
+  overflow-x: auto;
+}
+
+.padleft
+{
+  padding-left: 50px;
+}
+
+.padleftmore
+{
+  padding-left: 200px;
+}
+
+.padleflarge
+{
+  padding-left: 390px;
+}
+
+
+
+.additem
+{
+  margin-top: 20px;
+  border-radius: 25px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.textarea
+{
+  margin-top: 7px;
+}
+
+
